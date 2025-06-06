@@ -1,0 +1,11 @@
+##USING SQL TO DEMISTFY THE MODEL
+#Quiz 1: Group Players by Club and Count Total Players per Club
+#Quiz 2: Get the Average Overall (ovr) Rating per Club
+#Quiz 3: Find the Top 5 Clubs by Number of Players
+#Quiz 4: Get Total Male and Female Players per Club
+#Quiz 5: List Clubs and the Average Age of Their Players
+
+#Quiz 1: Group Players by Club and Count Total Players per Club
+Essence:
+We grouped players by club to see how many players each team has under contract. This reveals how big or small each squad is — helpful for planning transfers, balancing squad size, or flagging under/overstaffed clubs.
+![image]()
